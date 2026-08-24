@@ -1,3 +1,4 @@
+
 # LogAnalyzer Pro
 
 LogAnalyzer Pro is a lightweight cybersecurity utility designed to parse system authentication logs, identify potential brute-force attack patterns using regular expressions, and store the flagged threat data in a local database via a Flask RESTful API. This project showcases core competencies in Python programming, log analysis, backend API development, and security monitoring.
@@ -31,3 +32,7 @@ Core Modules: Regular Expressions (Regex), sqlite3
 
 ### API Alert Output in Browser
 ![JSON Alerts](screenshots/Browser_output.png)
+=======
+# LogAnalyzer-Pro
+A Python-based security log parser and Flask backend for detecting brute-force attacks and managing threat alerts.
+
